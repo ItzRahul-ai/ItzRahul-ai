@@ -44,7 +44,7 @@
 </p>
 
 <div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+  <img src="https://raw.githubusercontent.com/ItzRahul-ai/ItzRahul-ai/main/profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
 
 ## 🛠️ Languages & Tools
